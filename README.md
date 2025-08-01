@@ -15,7 +15,7 @@
 
 # 使用说明
 - Windows用户可以直接在dist目录中下载文件U15萝莉自动解压工具.exe到本地直接使用
-[ https://github.com/u15loli/auto_unzip/blob/main/dist/U15萝莉自动解压工具.exe](https://github.com/1546153976/auto_unzip/raw/refs/heads/main/dist/U15%E8%90%9D%E8%8E%89%E8%87%AA%E5%8A%A8%E8%A7%A3%E5%8E%8B%E5%B7%A5%E5%85%B7.exe)
+[[ https://github.com/u15loli/auto_unzip/blob/main/dist/U15萝莉自动解压工具.exe](https://github.com/1546153976/auto_unzip/raw/refs/heads/main/dist/U15%E8%90%9D%E8%8E%89%E8%87%AA%E5%8A%A8%E8%A7%A3%E5%8E%8B%E5%B7%A5%E5%85%B7.exe)](https://raw.githubusercontent.com/1546153976/auto_unzip/refs/heads/main/dist/U15萝莉自动解压工具.exe)
 - 程序界面的说明请见文档https://github.com/1546153976/auto_unzip/wiki
 
 ## 功能特性
